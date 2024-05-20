@@ -1,0 +1,12 @@
+C:\Users\II novbe\source\repos\MVCTASK\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\II novbe\source\repos\MVCTASK\Core\bin\Debug\net8.0\Core.dll
+C:\Users\II novbe\source\repos\MVCTASK\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\II novbe\source\repos\MVCTASK\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\MVCTASK\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\MVCTASK\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\MVCTASK\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\MVCTASK\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\MVCTASK\Core\obj\Debug\net8.0\Core.dll
+C:\Users\II novbe\source\repos\MVCTASK\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\II novbe\source\repos\MVCTASK\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\II novbe\source\repos\MVCTASK\Core\obj\Debug\net8.0\ref\Core.dll
